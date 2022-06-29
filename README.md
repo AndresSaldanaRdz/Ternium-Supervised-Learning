@@ -5,3 +5,5 @@ Este proyecto fue una colaboración con la empresa metalera Ternium, en el cual 
 Se puede leer el analisis completo desde la limpia de datos y metodologia de trabajo hasta las conclusiones en la Presentación o el Reporte.
 
 En este caso la base de datos no se encuentra disponibles por cuestiones de privacidad. 
+
+El codigo parte de cuando ya se había hecho la limpia de proceso de la base de datos, aunque no se incluyo esta parte fue muy extensa. Se concentro en rellenar valores faltantes, borrar valores duplicados, elimnar filas que poca informacion, reasignar valores de ID y filtrar a los candidatos, etc.  
