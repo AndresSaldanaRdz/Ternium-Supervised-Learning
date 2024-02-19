@@ -1,6 +1,6 @@
 # Ternium-Aprendizaje-Supervisado
 
-This project was a collaboration with the metal company Ternium, in which they provided us with a database of the company's employee candidates and applicants, with this information we trained supervised classification aglorhythms to determine which employees would be the most outstanding. (best fit for working with them).
+This project was a collaboration with the metal company Ternium, in which they provided us with a database of the company's employee candidates and applicants, with this information we trained supervised classification algorithms to determine which employees would be the most outstanding. (best fit for working with them).
 
 You can read the complete analysis from data cleaning and work methodology to the conclusions in the Presentation or Report.
 
